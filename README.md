@@ -5,6 +5,17 @@
 
 This project is a blockchain-based staking smart contract developed in Solidity. The contract allows users to stake tokens and earn rewards over time. The front-end interface is developed using Next.js, React, and Tailwind CSS, providing a seamless user experience for interacting with the smart contract. Users can connect their MetaMask wallet, stake tokens, view their wallet balance, and claim rewards directly from the interface.
 
+<details><summary>Image start</summary>
+   <img src="https://github.com/user-attachments/assets/ed40086a-f74b-4cdb-a0f9-be6d887487ba" width=35% height=35%>
+</details>
+<details><summary>After Connect Wallet </summary>
+   <img src="https://github.com/user-attachments/assets/c3a37754-d981-4677-8f2b-154e1a7f82e2" width=35% height=35%>
+</details>
+<details><summary>stacking 100 RT Tokens</summary>
+   <img src="https://github.com/user-attachments/assets/47f1d115-f004-46e4-949c-53c88146c878" width=35% height=35%>
+</details>
+
+
 ## Features
 
 Staking: Users can stake their tokens into the contract and start earning rewards based on the amount staked and the duration of the stake.

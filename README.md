@@ -65,7 +65,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repository/staking-dapp.git
+git clone https://github.com/KavinduWickramasekara98/Blockchain-Stacking-DApp.git
 cd staking-dapp
 Install front-end dependencies:
 
